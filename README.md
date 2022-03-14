@@ -9,6 +9,6 @@ Word Vector condensed space
 
 some related points zoomed in
 
-![image](https://user-images.githubusercontent.com/12696541/158089404-1fc2564d-9f99-4fb8-bf1d-04e08e639ddd.png)
+![image](https://user-images.githubusercontent.com/12696541/158089628-676d7f31-6bbf-4daf-9f56-ba395a93793b.png)
 
 some more related points zoomed in
